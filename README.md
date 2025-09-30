@@ -6,7 +6,7 @@ Before Dev Academy I spent five years as a business analyst in an IT environment
 
 During Dev Academy we tackled a bunch of challenges (which you'll see some of below), but I’ve also been working on a personal project - Betty.
 
-Betty (a work in progress) is an app for pet owners to capture and track everyday health details to better prepare for vet visits and support improved outcomes. The idea came from my mum (a radiographer at a local vet clinic), who mentioned how hard it can be for staff to get accurate, thorough pet health history during appointments. Friends of mine lost their puppy, Betty last year - the app is named after her!
+Betty (a work in progress) is an app for pet owners to capture and track everyday health details to better prepare for vet visits and support improved outcomes. The idea came from my mum (a radiographer at a local vet clinic), who mentioned how hard it can be for staff to get accurate, thorough pet health history during appointments. Friends of mine lost their puppy, Betty last year - the app is named after her! (This repository will be made public once more progress is made).
 
 Feel free to have a look around and reach out with any questions!
 
