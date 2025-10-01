@@ -1,6 +1,7 @@
-## Hey!
+## Welcome!
 
 <img width="3780" height="1890" alt="Annie Moffatt" src="https://github.com/user-attachments/assets/fb6cded4-5a50-443b-9382-4f40bc793029" />
+
 
 I'm Annie. I recently completed a certificate in Applied Software Development with Dev Academy Aotearoa - easily one of the hardest (but coolest) things I've ever done. It gave me a solid tech stack and helped me become more comfortable being outside of my comfort zone.
 
