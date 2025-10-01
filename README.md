@@ -4,7 +4,7 @@
 
 
 
-I'm **Annie**. I recently completed a certificate in Applied Software Development with Dev Academy Aotearoa - easily one of the hardest (but coolest) things I've ever done. It gave me a solid tech stack and helped me get comfortable being outside my comfort zone.
+I'm **Annie**! I recently completed a certificate in Applied Software Development with Dev Academy Aotearoa - easily one of the hardest (but coolest) things I've ever done. It gave me a solid tech stack and helped me get comfortable being outside my comfort zone.
 
 Before Dev Academy, I spent five years as a **Business Analyst** in an IT environment. I was always fascinated by the developers and how they thought. A company restructure gave me the nudge I needed to lean into tech properly and upskill as a **Full Stack Web Developer**.
 
