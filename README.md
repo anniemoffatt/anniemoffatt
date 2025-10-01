@@ -1,5 +1,7 @@
 ## Hey!
 
+<img width="3780" height="1890" alt="Annie Moffatt" src="https://github.com/user-attachments/assets/fb6cded4-5a50-443b-9382-4f40bc793029" />
+
 I'm Annie. I recently completed a certificate in Applied Software Development with Dev Academy Aotearoa - easily one of the hardest (but coolest) things I've ever done. It gave me a solid tech stack and helped me become more comfortable being outside of my comfort zone.
 
 Before Dev Academy I spent five years as a business analyst in an IT environment. I was always fascinated by the developers and how they thought. A company restructure gave me the nudge I needed to lean into tech properly and upskill as a full stack web developer.
